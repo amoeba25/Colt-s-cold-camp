@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+  <title>
+    Day 2
+  </title>
+  <body>
+    <h1>
+      Unsticking your cat &copy;
+    </h1>
+    <h2> When she gets stuck to the window screen </h2>
+    <hr>
+
+    <p>
+      Does your cat manage to get stuck to the window screen every single day
+      without fail? Even if you trim her claws frequently and make sure to keep
+      them short? Have you ever come home from work to find your cat stuck? Who
+      knows how long she's been sitting there.<b> Well, follow these simple
+      instructions to free her! </b> 
+</p>
+    <p>
+    The Steps
+    </p>
+    
+      <ol>
+        <li>Ask her: <i> "Are You Stuck Again ??" </i> </li>
+          <li> Make sure to give her a good scratch</li>
+          <li>Gently lift up &uarr; her paw, while soothing her with your calming voice</li>
+          <li> 
+          Give her some love &hearts; </li> 
+          </ol>
+          <p>
+          <video src="Day2\TodaysHW\stuck-kitty.mov" width="500px" controls></video> 
+          </p>
+          <p>
+            Your cat should now be free, and you can go back to playing the new
+           <a href> <i> Animal Crossing </i></a> or watching Love is Blind on Netflix
+          </P>
+          <p>
+            Look at how relaxed she is now:
+          </p>
+          <p>
+            <img src="Day2\TodaysHW\kitty-under-bed.jpg" width="500px"> </img>
+          </p>
+           
+   
+
+  </body>
+
+</head>
