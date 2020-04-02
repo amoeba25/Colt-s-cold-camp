@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <title>Document</title>
+</head>
+<style>
+  table{
+    border-collapse: collapse;
+    
+    border: 3px solid #000066;
+  }
+   th, td {
+     
+     border: 1px solid;
+  }
+  th{
+    background-color:#e6f7ff;
+    padding: 10px 20px 10px 20px;
+  }
+  tr:nth-child(even)
+  {
+    background-color: #ffffe6;
+  }
+  td{
+    padding: 10px 60px 10px 60px;
+     text-align: center;
+  }
+
+
+
+
+</style>
+
+
+<body>
+
+  <h1 class="black-text mono-font  " >Table Exercise</h1>
+  
+  <table>
+    <caption> Data about the planets of our solar system(Planetry facts taken
+    from <a href> Nasa's planetry fact sheet metric</a>)</caption>
+    
+    <thead>
+      
+     <tr>
+       <td colspan="2"> </td>
+      <th>Name</th>
+      <th>Mass(10<sup>24</sup>kg) </th> 
+      <th>Diameter(km) </th>
+      <th>Density(kg/m<sup>3</sup>) </th>
+      <th>Gravity(m/s<sup>2</sup>)</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="4" colspan="2"> Terristrial planets </th>
+      <th> Mercury </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+    <tr>
+      <th> Venus </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+    <tr>
+      <th> Earth </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+    <tr>
+      <th> Mars </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+    <tr>
+      <th rowspan="4"> Jovian Planets</th>
+      <th rowspan="2"> Gas Gianta</th>
+     
+      <th>Jupiter </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+    <tr>
+       
+      <th> Saturn </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+    <tr>
+      <th rowspan="2"> Ice Giants</th>
+      <th> Uranus </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+    <tr>
+      
+      <th> Neptune </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+    <tr>
+      <th colspan="2" >Dwarf Planets </th>
+      <th> Pluto </th>
+      <td> 0.33 </td>
+      <td> 4879</td>
+      <td> 5427</td>
+      <td> 3.7 </td>
+    </tr>
+  </tbody>
+  </table> 
+  
+</body>
+</html>
